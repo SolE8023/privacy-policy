@@ -56,7 +56,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- **Email**: sole8024@gmail.com
+- **Email**: khs671998@gmail.com
 - **Developer**: SolE8023
 
 ---
