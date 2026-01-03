@@ -12,9 +12,10 @@ This Privacy Policy describes how ClassTrack ("we", "us", or "our") collects, us
 - **Academic Data**: Semester names, course information (name, code, professor, location, credits), assignment details (titles, descriptions, due dates, priorities, grades)
 - **App Settings**: Theme preferences, notification settings, language preferences
 
-### Automatically Collected Information
-- **Device Information**: Device type, operating system version, unique device identifiers (for advertising purposes)
-- **Usage Data**: App interaction data, crash reports
+### Information Collected by Third-Party Services
+The App itself does not collect personal information. However, the following third-party services may collect information automatically:
+- **Device Information**: Device type, operating system version, advertising identifiers
+- **Ad Interaction Data**: Advertisement views and clicks
 
 ## Data Storage
 
@@ -95,9 +96,10 @@ If you have any questions about this Privacy Policy, please contact us at:
 - **학업 데이터**: 학기명, 과목 정보(과목명, 과목코드, 교수명, 강의실, 학점), 과제 정보(제목, 설명, 마감일, 우선순위, 성적)
 - **앱 설정**: 테마 설정, 알림 설정, 언어 설정
 
-### 자동으로 수집되는 정보
-- **기기 정보**: 기기 유형, 운영체제 버전, 고유 기기 식별자(광고 목적)
-- **사용 데이터**: 앱 상호작용 데이터, 충돌 보고서
+### 서드파티 서비스가 수집하는 정보
+본 앱은 직접 개인정보를 수집하지 않습니다. 단, 다음 서드파티 서비스가 자동으로 정보를 수집할 수 있습니다:
+- **기기 정보**: 기기 유형, 운영체제 버전, 광고 식별자
+- **광고 상호작용 데이터**: 광고 조회 및 클릭
 
 ## 데이터 저장
 
