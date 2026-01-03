@@ -34,7 +34,6 @@ We use Google AdMob to display advertisements. AdMob may collect and use data fo
 
 We use the collected information to:
 - Provide and maintain the App's functionality
-- Send you assignment reminder notifications (with your permission)
 - Display advertisements
 - Improve the App's performance and user experience
 
@@ -113,7 +112,6 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 수집된 정보는 다음 목적으로 사용됩니다:
 - 앱 기능 제공 및 유지
-- 과제 마감 알림 발송 (사용자 허가 시)
 - 광고 표시
 - 앱 성능 및 사용자 경험 개선
 
