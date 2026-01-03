@@ -30,17 +30,12 @@ We use Google AdMob to display advertisements. AdMob may collect and use data fo
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [How Google uses data](https://policies.google.com/technologies/partner-sites)
 
-### Google Play Billing
-For in-app purchases (Premium features), we use Google Play Billing. Purchase transactions are processed by Google.
-- [Google Play Terms of Service](https://play.google.com/intl/en_us/about/play-terms/)
-
 ## How We Use Information
 
 We use the collected information to:
 - Provide and maintain the App's functionality
 - Send you assignment reminder notifications (with your permission)
 - Display advertisements
-- Process in-app purchases
 - Improve the App's performance and user experience
 
 ## Permissions
@@ -49,7 +44,7 @@ The App requests the following permissions:
 
 | Permission | Purpose |
 |------------|---------|
-| Internet | Required for displaying ads and processing in-app purchases |
+| Internet | Required for displaying advertisements |
 | Notifications | To send assignment deadline reminders |
 | Exact Alarm | To deliver notifications at precise scheduled times |
 | Wake Lock | To ensure notifications are delivered reliably |
@@ -114,17 +109,12 @@ If you have any questions about this Privacy Policy, please contact us at:
 - [Google 개인정보처리방침](https://policies.google.com/privacy?hl=ko)
 - [Google의 데이터 사용 방식](https://policies.google.com/technologies/partner-sites?hl=ko)
 
-### Google Play 결제
-인앱 구매(프리미엄 기능)를 위해 Google Play 결제를 사용합니다. 구매 거래는 Google에서 처리합니다.
-- [Google Play 서비스 약관](https://play.google.com/intl/ko_kr/about/play-terms/)
-
 ## 정보 사용 목적
 
 수집된 정보는 다음 목적으로 사용됩니다:
 - 앱 기능 제공 및 유지
 - 과제 마감 알림 발송 (사용자 허가 시)
 - 광고 표시
-- 인앱 구매 처리
 - 앱 성능 및 사용자 경험 개선
 
 ## 권한
@@ -133,7 +123,7 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 | 권한 | 목적 |
 |------|------|
-| 인터넷 | 광고 표시 및 인앱 구매 처리에 필요 |
+| 인터넷 | 광고 표시에 필요 |
 | 알림 | 과제 마감 알림 발송 |
 | 정확한 알람 | 정확한 시간에 알림 전달 |
 | Wake Lock | 안정적인 알림 전달 보장 |
