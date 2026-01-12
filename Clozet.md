@@ -20,7 +20,6 @@ By using the App, you agree to the collection and use of information in accordan
 ### Automatically Collected Information
 
 - **Device information**: Device type, operating system version
-- **App usage data**: Feature usage patterns, crash reports
 - **Advertising ID**: For personalized advertising purposes
 
 ## How We Use Your Information
@@ -30,8 +29,6 @@ We use the collected information to:
 - Provide and maintain the App's functionality
 - Store your wardrobe data locally on your device
 - Display personalized advertisements
-- Analyze app usage to improve our services
-- Diagnose and fix technical issues
 
 ## Data Storage
 
@@ -48,25 +45,13 @@ We use Google AdMob to display advertisements. AdMob may collect and use data fo
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [How Google uses data from apps](https://policies.google.com/technologies/partner-sites)
 
-### Firebase Analytics
-
-We use Firebase Analytics to understand how users interact with our App. This helps us improve the user experience.
-
-- [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
-
-### Firebase Crashlytics
-
-We use Firebase Crashlytics to collect crash reports and diagnostic information to improve app stability.
-
-- [Firebase Crashlytics Privacy](https://firebase.google.com/support/privacy)
-
 ## Permissions
 
 The App requires the following permissions:
 
 - **Camera**: To take photos of your clothing items
 - **Storage/Photos**: To save and access clothing item photos
-- **Internet**: To display advertisements and send analytics/crash reports
+- **Internet**: To display advertisements
 - **Network State**: To check network connectivity
 
 ## Data Security
@@ -111,7 +96,6 @@ If you have any questions about this Privacy Policy, please contact us at:
 ### 자동으로 수집되는 정보
 
 - **기기 정보**: 기기 유형, 운영체제 버전
-- **앱 사용 데이터**: 기능 사용 패턴, 충돌 보고서
 - **광고 ID**: 맞춤형 광고 목적
 
 ## 정보 사용 목적
@@ -121,8 +105,6 @@ If you have any questions about this Privacy Policy, please contact us at:
 - 앱 기능 제공 및 유지
 - 옷장 데이터를 기기에 로컬 저장
 - 맞춤형 광고 표시
-- 앱 사용 분석을 통한 서비스 개선
-- 기술적 문제 진단 및 해결
 
 ## 데이터 저장
 
@@ -139,25 +121,13 @@ If you have any questions about this Privacy Policy, please contact us at:
 - [Google 개인정보처리방침](https://policies.google.com/privacy)
 - [앱에서 Google이 데이터를 사용하는 방법](https://policies.google.com/technologies/partner-sites)
 
-### Firebase Analytics
-
-사용자가 앱과 어떻게 상호작용하는지 이해하기 위해 Firebase Analytics를 사용합니다. 이를 통해 사용자 경험을 개선합니다.
-
-- [Firebase 개인정보처리방침](https://firebase.google.com/support/privacy)
-
-### Firebase Crashlytics
-
-앱 안정성을 개선하기 위해 충돌 보고서 및 진단 정보를 수집하는 Firebase Crashlytics를 사용합니다.
-
-- [Firebase Crashlytics 개인정보](https://firebase.google.com/support/privacy)
-
 ## 권한
 
 앱은 다음 권한을 요청합니다:
 
 - **카메라**: 의류 아이템 사진 촬영
 - **저장소/사진**: 의류 아이템 사진 저장 및 접근
-- **인터넷**: 광고 표시 및 분석/충돌 보고서 전송
+- **인터넷**: 광고 표시
 - **네트워크 상태**: 네트워크 연결 확인
 
 ## 데이터 보안
