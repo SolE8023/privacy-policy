@@ -81,7 +81,7 @@ We may update this Privacy Policy from time to time. Changes will be reflected i
 
 If you have questions about this Privacy Policy, please contact us at:
 
-- **Email**: sole8023@gmail.com
+- **Email**: khs671998@gmail.com
 - **GitHub**: https://github.com/SolE8023
 
 ## Your Rights
