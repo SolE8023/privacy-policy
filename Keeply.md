@@ -27,28 +27,37 @@ The app requests the following permissions:
 |------------|---------|
 | **Camera** | To take photos of your items |
 | **Storage** | To save and access item photos on your device |
-| **Internet** | To load sample images and app resources |
+| **Internet** | To load images and display advertisements |
+
+## Third-Party Services
+
+### Google AdMob
+
+This app uses Google AdMob to display advertisements. AdMob may collect and use certain information for advertising purposes, including:
+
+- Advertising ID
+- Device information
+- General location data
+- App usage data for ad personalization
+
+For more information about how Google uses data, please visit:
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [How Google uses data when you use our partners' sites or apps](https://policies.google.com/technologies/partner-sites)
+
+You can opt out of personalized advertising by:
+- Going to your device Settings > Google > Ads > Opt out of Ads Personalization
+- Or visiting [Google Ads Settings](https://adssettings.google.com)
 
 ## Data Usage
 
 - All inventory data remains on your device
 - Photos are stored in your device's local storage
-- No data is sent to external servers
-- No analytics or tracking services are used
-- No advertising services are integrated
-
-## Third-Party Services
-
-Keeply does **not** use any third-party services that collect user data:
-
-- No advertising (AdMob, etc.)
-- No analytics (Firebase Analytics, etc.)
-- No cloud storage services
-- No social login services
+- No personal inventory data is sent to external servers
+- Advertising-related data is handled by Google AdMob as described above
 
 ## Data Security
 
-Your data is protected by your device's built-in security features. Since all data is stored locally:
+Your data is protected by your device's built-in security features. Since all inventory data is stored locally:
 
 - Data is as secure as your device
 - We recommend using device lock (PIN, pattern, biometric)
@@ -56,12 +65,13 @@ Your data is protected by your device's built-in security features. Since all da
 
 ## Data Retention
 
-- Data persists on your device until you delete it or uninstall the app
-- We have no access to your data and cannot recover deleted information
+- Inventory data persists on your device until you delete it or uninstall the app
+- We have no access to your inventory data and cannot recover deleted information
+- Advertising data retention is managed by Google according to their policies
 
 ## Children's Privacy
 
-Keeply does not knowingly collect information from children under 13. The app is designed for general audiences and contains no age-restricted content.
+Keeply does not knowingly collect information from children under 13. The app is designed for general audiences. If you believe a child has provided personal information, please contact us.
 
 ## Changes to This Policy
 
@@ -76,7 +86,10 @@ If you have questions about this Privacy Policy, please contact us at:
 
 ## Your Rights
 
-Since we don't collect your data, there is no personal information for us to access, modify, or delete. All your data is under your control on your device.
+You have the right to:
+- Control personalized ads through your device settings
+- Delete all local app data by uninstalling the app
+- Contact us with any privacy concerns
 
 ---
 
@@ -109,28 +122,37 @@ Keeply는 모든 데이터를 **사용자의 기기에 로컬로 저장**합니�
 |------|------|
 | **카메라** | 물품 사진 촬영 |
 | **저장소** | 기기에 물품 사진 저장 및 접근 |
-| **인터넷** | 샘플 이미지 및 앱 리소스 로드 |
+| **인터넷** | 이미지 로드 및 광고 표시 |
+
+## 제3자 서비스
+
+### Google AdMob
+
+본 앱은 광고 표시를 위해 Google AdMob을 사용합니다. AdMob은 광고 목적으로 다음 정보를 수집하고 사용할 수 있습니다:
+
+- 광고 ID
+- 기기 정보
+- 일반적인 위치 데이터
+- 광고 개인화를 위한 앱 사용 데이터
+
+Google의 데이터 사용에 대한 자세한 정보는 다음을 참조하세요:
+- [Google 개인정보처리방침](https://policies.google.com/privacy)
+- [파트너 사이트나 앱을 사용할 때 Google이 데이터를 사용하는 방법](https://policies.google.com/technologies/partner-sites)
+
+맞춤 광고를 비활성화하려면:
+- 기기 설정 > Google > 광고 > 광고 맞춤설정 선택 해제
+- 또는 [Google 광고 설정](https://adssettings.google.com) 방문
 
 ## 데이터 사용
 
 - 모든 물품 데이터는 사용자 기기에 보관됩니다
 - 사진은 기기의 로컬 저장소에 저장됩니다
-- 외부 서버로 데이터가 전송되지 않습니다
-- 분석 또는 추적 서비스를 사용하지 않습니다
-- 광고 서비스가 통합되어 있지 않습니다
-
-## 제3자 서비스
-
-Keeply는 사용자 데이터를 수집하는 **제3자 서비스를 사용하지 않습니다**:
-
-- 광고 없음 (AdMob 등)
-- 분석 없음 (Firebase Analytics 등)
-- 클라우드 저장소 서비스 없음
-- 소셜 로그인 서비스 없음
+- 개인 물품 데이터는 외부 서버로 전송되지 않습니다
+- 광고 관련 데이터는 위에 설명된 대로 Google AdMob에서 처리합니다
 
 ## 데이터 보안
 
-데이터는 기기의 내장 보안 기능으로 보호됩니다. 모든 데이터가 로컬에 저장되므로:
+데이터는 기기의 내장 보안 기능으로 보호됩니다. 모든 물품 데이터가 로컬에 저장되므로:
 
 - 데이터는 기기만큼 안전합니다
 - 기기 잠금(PIN, 패턴, 생체인식) 사용을 권장합니다
@@ -138,12 +160,13 @@ Keeply는 사용자 데이터를 수집하는 **제3자 서비스를 사용하�
 
 ## 데이터 보관
 
-- 데이터는 삭제하거나 앱을 제거할 때까지 기기에 유지됩니다
-- 당사는 사용자 데이터에 접근할 수 없으며 삭제된 정보를 복구할 수 없습니다
+- 물품 데이터는 삭제하거나 앱을 제거할 때까지 기기에 유지됩니다
+- 당사는 물품 데이터에 접근할 수 없으며 삭제된 정보를 복구할 수 없습니다
+- 광고 데이터 보관은 Google 정책에 따라 관리됩니다
 
 ## 아동 개인정보 보호
 
-Keeply는 13세 미만 아동의 정보를 의도적으로 수집하지 않습니다. 앱은 일반 사용자를 위해 설계되었으며 연령 제한 콘텐츠가 없습니다.
+Keeply는 13세 미만 아동의 정보를 의도적으로 수집하지 않습니다. 앱은 일반 사용자를 위해 설계되었습니다. 아동이 개인정보를 제공했다고 생각되면 당사에 연락해 주세요.
 
 ## 정책 변경
 
@@ -158,4 +181,7 @@ Keeply는 13세 미만 아동의 정보를 의도적으로 수집하지 않습�
 
 ## 사용자 권리
 
-당사는 사용자 데이터를 수집하지 않으므로 접근, 수정 또는 삭제할 개인정보가 없습니다. 모든 데이터는 사용자 기기에서 사용자가 관리합니다.
+사용자는 다음 권리가 있습니다:
+- 기기 설정을 통해 맞춤 광고 제어
+- 앱 제거를 통해 모든 로컬 앱 데이터 삭제
+- 개인정보 관련 문의 연락
